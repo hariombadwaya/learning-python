@@ -1,2 +1,4 @@
 ipykernel
 numpy
+streamlit
+pandas
